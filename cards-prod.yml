@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards related production APIs "
+  contactDetails:
+    name: "Eshant Yadav - Product Owner"
+    email: "eshant.yadav7017@gmail.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

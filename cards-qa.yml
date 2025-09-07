@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Cards related QA APIs "
+  contactDetails:
+    name: "Eshant Yadav - QA Lead"
+    email: "eshant.yadav7017@gmail.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

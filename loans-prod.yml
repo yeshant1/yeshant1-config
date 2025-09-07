@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loans related production APIs "
+  contactDetails:
+    name: "Eshant Yadav- Product Owner"
+    email: "eshant.yadav7017@gmail.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
